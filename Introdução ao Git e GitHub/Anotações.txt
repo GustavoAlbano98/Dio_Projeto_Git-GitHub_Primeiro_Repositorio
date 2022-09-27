@@ -1,0 +1,15 @@
+                               10 Comandos Básicos no Git
+
+
+
+1. *git--version* (Verifica a versão do GIT)
+2. *git init*(Inicializa um repositório git vazio)
+3. *git status*(Ver status do Git )
+4. *git commit -m "Titulo do Commit"* --> Os commit são unidades estruturais de um cronograma de projeto GIT. Podem ser considerados instantâneos ou marcos do longo do cronograma de um projeto Git. São Criados com o comando git commit para "capturar" o estado de um projeto naquele momento.
+5. *git add* --> Ele diz ao git que você quer incluir atualizações a um arquivo específico no próximo commit. No entanto, git Add não tem efeito real e significativo no repositório até você executar git commit.
+6. *git marge* --> Junta com a BRANCH principal.
+7. *git clone <link>* Baixa o arquivo do GitHub para o o seu repositório local.
+8. *git pull* --> Baixa conteúdos de repositórios remotos e faz a atualização imediata do repositório local.
+9. *git push origin master* --> Vai ser mandado os arquivos para o repositório no GitHub.
+10. *git remote add origin <link GitHub>* --> O git remote registra dentro das configurações do seu repositório local, para qual repositório remoto ele aponta.
+
